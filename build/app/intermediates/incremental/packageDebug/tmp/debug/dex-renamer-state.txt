@@ -1,0 +1,4 @@
+#Sun Feb 06 16:43:16 BRT 2022
+base.0=/Users/cleberson.ciliato/development/bytebank/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
